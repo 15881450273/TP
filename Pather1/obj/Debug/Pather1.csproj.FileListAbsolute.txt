@@ -1,0 +1,55 @@
+E:\c#项目\Pather1\Pather1\bin\Debug\Pather1.exe.config
+E:\c#项目\Pather1\Pather1\bin\Debug\Pather1.exe
+E:\c#项目\Pather1\Pather1\bin\Debug\Pather1.pdb
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.csprojAssemblyReference.cache
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.Form1.resources
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.Form2.resources
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.Form3.resources
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.Form4.resources
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.Properties.Resources.resources
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.csproj.GenerateResource.cache
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.csproj.CoreCompileInputs.cache
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.exe
+E:\c#项目\Pather1\Pather1\obj\Debug\Pather1.pdb
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\Pather1.exe.config
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\Pather1.exe
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\Pather1.pdb
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.csprojAssemblyReference.cache
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.Properties.Resources.resources
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.csproj.GenerateResource.cache
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.csproj.CoreCompileInputs.cache
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.exe
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.pdb
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\Pather.exe
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\WindowsFormsApp9.exe
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\Pather.pdb
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\Pather.exe.config
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.log.resources
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.signup.resources
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.signup1.resources
+C:\Users\ly\Documents\Tencent Files\1628214773\FileRecv\Pather1\Pather1\obj\Debug\Pather1.csproj.CopyComplete
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\Pather1.exe.config
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\Pather1.exe
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\Pather1.pdb
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\Pather.exe
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\WindowsFormsApp9.exe
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\Pather.pdb
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\Pather.exe.config
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.csprojAssemblyReference.cache
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.log.resources
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.signup.resources
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.signup1.resources
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.Properties.Resources.resources
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.csproj.GenerateResource.cache
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.csproj.CoreCompileInputs.cache
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.csproj.CopyComplete
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.exe
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.pdb
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\Pather1.exe.manifest
+C:\Users\11311\source\repos\Pather1\Pather1\bin\Debug\Pather1.application
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.exe.manifest
+C:\Users\11311\source\repos\Pather1\Pather1\obj\Debug\Pather1.application
